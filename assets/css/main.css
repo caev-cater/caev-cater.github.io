@@ -1936,6 +1936,13 @@ input, select, textarea {
 					background: #829bc9;
 				}
 
+			.icon.circle.fa-linkedin {				
+				/* background: #7490c3; */
+				background-image: url('images/icons/linkedin.png');
+				background-size: contain;
+				color: #fff;
+			}
+
 			.icon.circle.fa-google-plus {
 				background: #db6b67;
 				color: #fff;
